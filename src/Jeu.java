@@ -7,6 +7,7 @@ public class Jeu {
     private boolean isFound;
     private int xTresor;
     private int yTresor;
+    private int test;
     private PriorityQueue<Chasseur> listChasseur;
 
     public Jeu(int width, int height){
